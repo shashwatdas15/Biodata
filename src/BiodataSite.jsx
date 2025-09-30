@@ -38,14 +38,14 @@ export default function BiodataSite() {
               <h1 className="text-lg font-semibold">Shashwat Das</h1>
             </div>
           </div>
-          <div className="flex items-center gap-2">
+          {/* <div className="flex items-center gap-2">
             <button onClick={() => window.print()} className="inline-flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-medium shadow-sm border border-slate-200 bg-white hover:bg-slate-50">
               <Download className="size-4" /> Print / Save PDF
             </button>
             <button onClick={handleShare} className="inline-flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-medium shadow-sm text-white bg-gradient-to-r from-rose-500 to-sky-500 hover:opacity-95">
               <Share2 className="size-4" /> Share
             </button>
-          </div>
+          </div> */}
         </div>
       </header>
 
